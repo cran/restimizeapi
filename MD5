@@ -1,0 +1,15 @@
+bce1f6db2a71b1debb654956377e1d31 *DESCRIPTION
+390e781c21cb3ceb19c98d7341e378a7 *INDEX
+a740626a8475ea4f168db9bd7626bdba *NAMESPACE
+c384c00f205598d8f399ba2b30c6eade *NEWS
+5775dbf4523e7f50dcfb58b12d13924c *R/restimizeapi.R
+fdc36b61f6d557efa157712f28b43365 *man/About.Rd
+95d8b0851be298077195ad2fa92b529c *man/GetCompanies.Rd
+0d2f1ef4cb32fa6aac7e437e3d099178 *man/GetCompany.Rd
+bb73684d7b4db0d5194a079e70369751 *man/GetCompanyEstimates.Rd
+4f3fea47c26d34ef6452702cac0643aa *man/GetCompanyReleases.Rd
+3dd7ffac293a4545216f23cf79b1900f *man/GetEstimates.Rd
+f08bb0f38746e2404d2a01f10ac1a15e *man/GetReleaseConsensus.Rd
+66cfee58ac27ec2435d6a3d899832bfe *man/SetKey.Rd
+744787279a5241a51041cab70673c8f8 *man/restimizeapi.Rd
+1a1f58266f670e3f1be2ac35e364b027 *tests/testthat/test_restimizeapi.R

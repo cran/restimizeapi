@@ -1,0 +1,8 @@
+SetKey                   Function sets the key which is required as a header in every web method call to estimize.com -- contact \email{sales@@estimize.com} to obtain a key.
+GetCompanies             Returns the company information for all companies that Estimize covers.
+GetCompany               Returns the company information for the company specified by the ticker.
+GetCompanyReleases       Returns the past financial releases for the specified company by the ticker, for the specified fiscal year, and quarter.
+GetCompanyEstimates      Returns all estimates for a company specified by ticker.
+GetEstimates             Returns all estimates in the specified date-range for all companies.
+GetReleaseConsensus      Returns the current consensus as well as the consensus history of the specified release. Note that the user can obtain the id from results returned from calls to the GetCompanyReleases function.
+About                    Function prints some information about this package.
